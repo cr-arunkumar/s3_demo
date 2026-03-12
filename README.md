@@ -1,6 +1,6 @@
 # S3 File Upload & Download Demo
 
-A full-stack application demonstrating file upload and download functionality using AWS S3 with TypeScript + Express backend and React frontend.
+A full-stack application    demonstrating file upload and download functionality using AWS S3 with TypeScript + Express backend and React frontend.
 
 ## Project Structure
 
